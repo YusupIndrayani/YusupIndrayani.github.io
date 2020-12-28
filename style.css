@@ -23,7 +23,7 @@ html{
 }
 header{
 	padding: 140px;
-	background-image: url('./gambar/backround.jpg');
+	background-image: url('./backround.jpg');
 	background-size: cover;
 	background-repeat: no-repeat; 
 }

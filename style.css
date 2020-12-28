@@ -1,0 +1,44 @@
+.navbar-brand {
+	font-family: Viga;
+}
+body{
+	position: relative;
+}
+
+
+html{
+	scroll-behavior: smooth;
+
+}
+
+.nav-link{
+	margin: 5px;
+}
+.nav-link:hover{
+	border-bottom: solid 1px white;
+
+}
+.active{
+	border-bottom: solid 1px white;
+}
+header{
+	padding: 140px;
+	background-image: url('./gambar/backround.jpg');
+	background-size: cover;
+	background-repeat: no-repeat; 
+}
+.textheader{
+
+	position: relative;
+	top: 50px;
+	color: black;
+}
+.card:hover{
+	-webkit-transform: scale(2.08);
+	transform: scale(1.05);
+}
+
+.footer {
+	font-family: serif;
+}
+
